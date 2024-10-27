@@ -1,0 +1,17 @@
+C:\Users\caner\Desktop\c# ödev\c# ödev\bin\Debug\net8.0-windows\c# ödev.exe
+C:\Users\caner\Desktop\c# ödev\c# ödev\bin\Debug\net8.0-windows\c# ödev.deps.json
+C:\Users\caner\Desktop\c# ödev\c# ödev\bin\Debug\net8.0-windows\c# ödev.runtimeconfig.json
+C:\Users\caner\Desktop\c# ödev\c# ödev\bin\Debug\net8.0-windows\c# ödev.dll
+C:\Users\caner\Desktop\c# ödev\c# ödev\bin\Debug\net8.0-windows\c# ödev.pdb
+C:\Users\caner\Desktop\c# ödev\c# ödev\obj\Debug\net8.0-windows\c__ödev.Form1.resources
+C:\Users\caner\Desktop\c# ödev\c# ödev\obj\Debug\net8.0-windows\c# ödev.csproj.GenerateResource.cache
+C:\Users\caner\Desktop\c# ödev\c# ödev\obj\Debug\net8.0-windows\c# ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Desktop\c# ödev\c# ödev\obj\Debug\net8.0-windows\c# ödev.AssemblyInfoInputs.cache
+C:\Users\caner\Desktop\c# ödev\c# ödev\obj\Debug\net8.0-windows\c# ödev.AssemblyInfo.cs
+C:\Users\caner\Desktop\c# ödev\c# ödev\obj\Debug\net8.0-windows\c# ödev.csproj.CoreCompileInputs.cache
+C:\Users\caner\Desktop\c# ödev\c# ödev\obj\Debug\net8.0-windows\c# ödev.dll
+C:\Users\caner\Desktop\c# ödev\c# ödev\obj\Debug\net8.0-windows\refint\c# ödev.dll
+C:\Users\caner\Desktop\c# ödev\c# ödev\obj\Debug\net8.0-windows\c# ödev.pdb
+C:\Users\caner\Desktop\c# ödev\c# ödev\obj\Debug\net8.0-windows\c# ödev.genruntimeconfig.cache
+C:\Users\caner\Desktop\c# ödev\c# ödev\obj\Debug\net8.0-windows\ref\c# ödev.dll
+C:\Users\caner\Desktop\c# ödev\c# ödev\obj\Debug\net8.0-windows\c__ödev.Form2.resources
